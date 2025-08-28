@@ -1,0 +1,8 @@
+/*program to print " MY FIRST CODE "
+developed by : MAHI SAXENA,Date : 13 august 2025 */
+#include <stdio.h>
+void main ( )
+{
+              printf( " MY FIRST CODE " ) ;
+
+}
